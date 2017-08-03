@@ -22,7 +22,7 @@ namespace WindowsFormsApplication4
 		}
 		private void listView1_SelectedIndexChanged(object sender, EventArgs e)
 		{
-
+			// historique
 		}
 
 		private void button10_Click(object sender, EventArgs e)
@@ -150,6 +150,21 @@ namespace WindowsFormsApplication4
 			DisplayNumber.Suppstring();
 			textBox1.Text = DisplayNumber.stringofnumber;
 			DisplayNumber.number = true;
+		}
+
+		private void button18_Click(object sender, EventArgs e)
+		{
+			textBox1.Text = textBox2.Text + " " + textBox3.Text;
+		}
+
+		private void textBox2_TextChanged(object sender, EventArgs e)
+		{
+			//login = admin
+		}
+
+		private void textBox3_TextChanged(object sender, EventArgs e)
+		{
+			//password = admin
 		}
 	}
 }

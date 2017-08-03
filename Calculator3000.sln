@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator3000", "WindowsFormsApplication4\Calculator3000.csproj", "{02E85A71-DD28-476D-8B10-C810F2AB6ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "ConsoleApplication1\Messaging.csproj", "{7E49D94D-A331-44ED-8578-A82164D65ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "ConsoleApplication2\Server.csproj", "{7AD31B2B-F567-4645-8F8D-BEB3D4A63CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E85A71-DD28-476D-8B10-C810F2AB6ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E85A71-DD28-476D-8B10-C810F2AB6ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E85A71-DD28-476D-8B10-C810F2AB6ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E85A71-DD28-476D-8B10-C810F2AB6ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E49D94D-A331-44ED-8578-A82164D65ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E49D94D-A331-44ED-8578-A82164D65ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E49D94D-A331-44ED-8578-A82164D65ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E49D94D-A331-44ED-8578-A82164D65ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD31B2B-F567-4645-8F8D-BEB3D4A63CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD31B2B-F567-4645-8F8D-BEB3D4A63CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD31B2B-F567-4645-8F8D-BEB3D4A63CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD31B2B-F567-4645-8F8D-BEB3D4A63CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
