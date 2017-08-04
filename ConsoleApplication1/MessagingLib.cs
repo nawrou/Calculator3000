@@ -5,6 +5,7 @@ using RabbitMQ.Client.Events;
 
 namespace ConsoleApplication1
 {
+	// messaging system using library
 	public class RabbitMqService
 	{
 		private string _hostName = "localhost";

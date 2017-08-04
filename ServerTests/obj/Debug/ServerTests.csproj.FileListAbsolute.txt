@@ -1,0 +1,1 @@
+C:\Users\erwan\Projets\WindowsFormsApplication4\ServerTests\obj\Debug\ServerTests.csprojResolveAssemblyReference.cache

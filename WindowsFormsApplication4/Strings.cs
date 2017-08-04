@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WindowsFormsApplication4
+﻿namespace WindowsFormsApplication4
 {
-	class DisplayNumber
+	//string display for users
+	public class DisplayNumber
 	{
 		public static string stringofnumber = "0";
 		public static bool number = true;
